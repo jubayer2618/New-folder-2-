@@ -166,7 +166,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("images/wallpaperflare.com_wallpaper.jpg") no-repeat center;
+    background: url("images/mine\ review.png") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
@@ -282,6 +282,7 @@ section .title::after{
 }
 .services .serv-content .card .box{
     transition: all 0.3s ease;
+    
 }
 .services .serv-content .card:hover .box{
     transform: scale(1.05);
@@ -290,6 +291,7 @@ section .title::after{
     font-size: 50px;
     color: crimson;
     transition: color 0.3s ease;
+  
 }
 .services .serv-content .card:hover i{
     color: #fff;
